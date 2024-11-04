@@ -1,0 +1,12 @@
+{
+  "name": "app-hola-mundo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
