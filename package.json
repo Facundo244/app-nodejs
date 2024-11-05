@@ -2,11 +2,12 @@
   "name": "app-hola-mundo",
   "version": "1.0.0",
   "main": "app.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
